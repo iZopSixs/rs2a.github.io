@@ -1,0 +1,246 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rs2a.github.io" resolutions="1x" timestamp="1502271033223">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_rs2a.css" crc="195819055" ref="index:galerie:traitements:partenaires:contact:réalisations:nos-activités:ponçage"/>
+    <file name="index.css" crc="4096271148" ref="index"/>
+    <file name="galerie.css" crc="3903856624" ref="galerie"/>
+    <file name="traitements.css" crc="4076608963" ref="traitements"/>
+    <file name="partenaires.css" crc="4076608963" ref="partenaires"/>
+    <file name="contact.css" crc="4029823175" ref="contact"/>
+    <file name="r_alisations.css" crc="4076608963" ref="réalisations"/>
+    <file name="nos-activit_s.css" crc="4076608963" ref="nos-activités"/>
+    <file name="pon_age.css" crc="4076608963" ref="ponçage"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="museutils.js" crc="4232573551" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="webpro.js" crc="3770351119" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="require.js" crc="4234670167" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u3061.php" crc="4029649398" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="rs2a-favicon.ico" crc="3863384125" ref="index"/>
+    <file name="home.png" crc="4151509158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="117.png" crc="258489531" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="setwallsru-69970.jpg" crc="3874473001" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foot.png" crc="4156115460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos.png" crc="367022676" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="avant-apres.jpg" crc="4144149506" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie"/>
+    <file name="p1010046_1.jpg" crc="314136883" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:galerie"/>
+    <file name="p1010047_1-crop-u478.jpg" crc="3827285083" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="12121.jpg" crc="3885604612" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="remont-mramornogo-pola-2.jpg" crc="162359141" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="visuel-carrelage.jpg" crc="3940411269" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="ma-u721-fr.jpg" crc="63289049" ref="index"/>
+    <file name="222.jpg" crc="49299047" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1111.jpg" crc="20300685" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11112.jpg" crc="459359745" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beton-u724-fr.jpg" crc="307722585" ref="index"/>
+    <file name="3333.jpg" crc="4058449365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="terra.jpg" crc="4092771133" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4444.jpg" crc="4091624281" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anti.jpg" crc="101973466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="villas.jpg" crc="452158789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="400.jpg" crc="291140328" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carreaux ciment.jpg" crc="431508930" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55555.jpg" crc="126636285" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18323499-u729-fr.jpg" crc="3860886527" ref="index"/>
+    <file name="18323499.jpg" crc="353141790" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="granit-u735-fr.jpg" crc="81544127" ref="index"/>
+    <file name="6666-u735-r-fr.jpg" crc="4214771953" ref="index"/>
+    <file name="12222333-u718-fr.png" crc="121904625" ref="index"/>
+    <file name="9cb161_f46aa5f72d7f4d11a361fad734acd619jpg_srz_429_322_85_22_050_120_000_.jpg" crc="3858976404" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d2f56dfa-672e-4566-9e87-fea7ae3916a9-400.jpg" crc="8530134" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foot2.png" crc="4101538747" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="copyrightsymbol.png" crc="372586563" seo="true" ref="index:nos-activités:ponçage:traitements:réalisations:partenaires:contact:galerie">
+      <caption webpage="réalisations" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ponçage" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="traitements" alt=""/>
+      <caption webpage="nos-activités" alt=""/>
+      <caption webpage="partenaires" alt=""/>
+    </file>
+    <file name="icon_home.png" crc="375331619" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="znak-elektronnoy-pochty.png" crc="463573092" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="telefono_telephone_phone_icon_coloring_book_colouring-555px.png" crc="500885741" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="17819867_635533673316249_160769701_o.jpg" crc="4258736074" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17820212_635571003312516_545821655_o.jpg" crc="4076153283" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17820282_635533676649582_519300605_o.jpg" crc="4255240525" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17820403_636176243251992_925912844_o.jpg" crc="389325601" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17837712_636176233251993_1214422874_o.jpg" crc="83328572" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17858822_637660926436857_1815030155_o.jpg" crc="392748416" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17858865_637661206436829_247836886_o.jpg" crc="3950897550" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17859132_637661196436830_1158629613_o.jpg" crc="4134696477" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17886749_637661143103502_1253835625_o.jpg" crc="3821362340" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17887131_637661069770176_1740082476_o.jpg" crc="3968088377" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17887278_637661083103508_984943735_o.jpg" crc="364845090" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17887551_637661153103501_162868874_o.jpg" crc="4179560037" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+    <file name="17887561_637661093103507_1083243066_o.jpg" crc="3851876859" seo="true" ref="galerie">
+      <caption webpage="galerie" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="97555843" seo="true" mt="1502134376376" redirect="true"/>
+  <file name="nos-activités.html" crc="3824499475" seo="true" mt="1502124042121" redirect="true"/>
+  <file name="ponçage.html" crc="3841102027" seo="true" mt="1502124042121" redirect="true"/>
+  <file name="traitements.html" crc="4014576430" seo="true" mt="1502124042121" redirect="true"/>
+  <file name="réalisations.html" crc="4005359820" seo="true" mt="1502124042121" redirect="true"/>
+  <file name="partenaires.html" crc="482100305" seo="true" mt="1502124042121" redirect="true"/>
+  <file name="contact.html" crc="4086350999" seo="true" mt="1502131065785" redirect="true"/>
+  <file name="galerie.html" crc="3976288814" seo="true" mt="1502124042121" redirect="true"/>
+</manifest>
